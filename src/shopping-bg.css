@@ -1,0 +1,30 @@
+/* Shopping themed background for pages: includes faded icons and gradients. */
+.bg-shopping-theme {
+  position: relative;
+  background: linear-gradient(135deg, #f3e8ff 0%, #ffe4ef 100%);
+  overflow: hidden;
+}
+.bg-shopping-theme .bg-icon {
+  position: absolute;
+  opacity: 0.08;
+  pointer-events: none;
+  z-index: 0;
+}
+.bg-shopping-theme .icon-cart {
+  top: 10%; left: 5%; width: 80px; height: 80px;
+}
+.bg-shopping-theme .icon-bag {
+  top: 70%; left: 80%; width: 60px; height: 60px;
+}
+.bg-shopping-theme .icon-gift {
+  top: 40%; left: 60%; width: 70px; height: 70px;
+}
+.bg-shopping-theme .icon-star {
+  top: 80%; left: 20%; width: 50px; height: 50px;
+}
+.bg-shopping-theme .icon-heart {
+  top: 20%; left: 80%; width: 60px; height: 60px;
+}
+.bg-shopping-theme .icon-user {
+  top: 60%; left: 10%; width: 50px; height: 50px;
+}
