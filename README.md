@@ -10,7 +10,7 @@ A modern, feature-rich shopping cart application built with React, Vite, Tailwin
 - Wishlist management
 - Order history & cancellation
 - Account management
-- Responsive design & dark mode
+- Responsive design
 - Shopping-themed backgrounds and micro-interactions
 
 ---
