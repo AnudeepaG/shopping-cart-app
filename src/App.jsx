@@ -183,9 +183,9 @@ function App() {
               <Package className="w-8 h-8 text-purple-600" />
               <div>
                 <h1 className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-                  ShopVista
+                  MiniMart
                 </h1>
-                <p className="text-xs text-gray-500">Your Shopping Paradise</p>
+                <p className="text-xs text-gray-500">Mini Cart, Maximum Convenience</p>
               </div>
             </div>
 
